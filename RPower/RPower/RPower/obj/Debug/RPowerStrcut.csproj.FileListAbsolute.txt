@@ -1,0 +1,6 @@
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\bin\Debug\RPower.dll
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\bin\Debug\RPower.pdb
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\obj\Debug\RPowerStrcut.csproj.AssemblyReference.cache
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\obj\Debug\RPowerStrcut.csproj.CoreCompileInputs.cache
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\obj\Debug\RPower.dll
+C:\Users\MRC\Desktop\Rinat\C#\RPower\RPower\obj\Debug\RPower.pdb

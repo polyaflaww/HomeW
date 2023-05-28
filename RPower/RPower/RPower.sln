@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPowerStrcut", "RPower\RPowerStrcut.csproj", "{E20C1411-7333-4FA6-9A23-5B39C183AD40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPowerTests", "RPowerTests\RPowerTests.csproj", "{C8515259-750E-45B6-A672-9BF824AA4D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20C1411-7333-4FA6-9A23-5B39C183AD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20C1411-7333-4FA6-9A23-5B39C183AD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20C1411-7333-4FA6-9A23-5B39C183AD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20C1411-7333-4FA6-9A23-5B39C183AD40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8515259-750E-45B6-A672-9BF824AA4D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8515259-750E-45B6-A672-9BF824AA4D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8515259-750E-45B6-A672-9BF824AA4D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8515259-750E-45B6-A672-9BF824AA4D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB35AC75-142F-498A-AF78-B67ED48FC492}
+	EndGlobalSection
+EndGlobal
