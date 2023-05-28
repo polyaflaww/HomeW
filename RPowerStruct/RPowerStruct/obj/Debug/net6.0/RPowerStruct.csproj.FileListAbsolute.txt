@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\bin\Debug\net6.0\RPowerStruct.deps.json
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\bin\Debug\net6.0\RPowerStruct.dll
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\bin\Debug\net6.0\RPowerStruct.pdb
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.dll
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\refint\RPowerStruct.dll
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\RPowerStruct.pdb
+C:\Users\User\source\repos\HomeW\RPowerStruct\RPowerStruct\obj\Debug\net6.0\ref\RPowerStruct.dll
