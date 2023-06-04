@@ -51,6 +51,8 @@
     <Compile Include="Data\Pixel.cs" />
     <Compile Include="Filters\EmptyParameters.cs" />
     <Compile Include="Filters\IFilter.cs" />
+    <Compile Include="Filters\Transform\ShiftDownTransformer.cs" />
+    <Compile Include="Filters\Transform\ShiftDownParameters.cs" />
     <Compile Include="Filters\TrasholdParameters .cs" />
     <Compile Include="Filters\Parameters\IParameters.cs" />
     <Compile Include="Filters\Parameters\IParametersHandler.cs" />

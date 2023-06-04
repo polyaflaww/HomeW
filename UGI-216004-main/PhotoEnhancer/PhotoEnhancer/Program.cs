@@ -67,6 +67,11 @@ namespace PhotoEnhancer
                 new RotateTransformer()
                 ));
 
+            mainForm.AddFilter(new TransformFilter<ShiftDownParameters>(
+                "Cдвиг вниз",
+                new ShiftDownTransformer()
+                ));
+
             Application.Run(mainForm);
         }
     }
