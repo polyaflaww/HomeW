@@ -56,6 +56,12 @@ namespace PhotoEnhancer
                 (point, size) => new Point(size.Width - point.Y - 1, point.X)
                 ));
 
+            mainForm.AddFilter(new TransformFilter(
+                "Зерк. отражение отн. гл. диагонали",
+                size => new Size(size.Height, size.Width),
+                (point, size) => new Point(point.Y, point.X)
+                ));
+
             mainForm.AddFilter(new TransformFilter<RotationParameters>(
                 "Поворот на произвольный угол",
                 new RotateTransformer()
